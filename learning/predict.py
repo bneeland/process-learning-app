@@ -5,7 +5,6 @@ from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation, Flatten
 from keras.layers import Conv2D, MaxPooling2D
 from keras.utils import np_utils
-from keras.datasets import mnist
 from keras.models import load_model
 import matplotlib
 matplotlib.use("TkAgg")
@@ -13,7 +12,6 @@ from matplotlib import pyplot as plt
 import matplotlib.animation as animation
 import pandas as pd
 import math
-from sklearn.model_selection import train_test_split
 import time
 import csv
 
@@ -115,7 +113,7 @@ def UpdateFigure_c(FrameNumber):
         EventID_c = np.argmax(FirstPeriod, axis = None, out = None)
         print("%-55s" %(EventIDs_c[str(EventID_c)]), "%-20s" %("Command"), "%-10s" %(i))
     # Print the prediction, updating the probability
-    if np.amax(y_PredictionProb) > 0.80:
+    if np.amax(y_PredictionProb) > 0.70:
         Subplot_c.set_title("\nCOMMANDS\n" + str(LabelID_c) + "\n" + str(int(np.amax(y_PredictionProb)*100)) + "%", loc = "left")
     else:
         Subplot_c.set_title("\nCOMMANDS\n\n", loc = "left")

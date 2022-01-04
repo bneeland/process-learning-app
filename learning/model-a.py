@@ -5,11 +5,7 @@ from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation, Flatten
 from keras.layers import Conv2D, MaxPooling2D
 from keras.utils import np_utils
-from keras.datasets import mnist
 from keras.callbacks import EarlyStopping
-import matplotlib
-matplotlib.use("TkAgg")
-from matplotlib import pyplot as plt
 import pandas as pd
 import math
 from sklearn.model_selection import train_test_split
@@ -143,7 +139,7 @@ Model.summary()
 Model.compile(loss="categorical_crossentropy", optimizer="adam", metrics = ["accuracy"])
 
 # Fit the model
-Model.fit(X_Train, y_Train, validation_data = (X_Test, y_Test), epochs = 500, batch_size=10, callbacks = [EarlyStopping(monitor = "val_acc", min_delta = 0.00001, patience = 50, verbose = 1, mode = "auto")])
+Model.fit(X_Train, y_Train, validation_data = (X_Test, y_Test), epochs = 500, batch_size=10, callbacks = [EarlyStopping(monitor = "val_accuracy", min_delta = 0.00001, patience = 40, verbose = 1, mode = "auto")])
 
 # Save the model
 try:

@@ -1,19 +1,7 @@
 # Import libraries
 import numpy as np
-import keras
-from keras.models import Sequential
-from keras.layers import Dense, Dropout, Activation, Flatten
-from keras.layers import Conv2D, MaxPooling2D
-from keras.utils import np_utils
-from keras.datasets import mnist
-from keras.models import load_model
-import matplotlib
-matplotlib.use("TkAgg")
-from matplotlib import pyplot as plt
-import matplotlib.animation as animation
 import pandas as pd
 import math
-from sklearn.model_selection import train_test_split
 import time
 import csv
 
@@ -27,13 +15,11 @@ LabelledDataset_Sorted_c = LabelledDataset_Original_c.sort_values(["CaseID", "Ti
 with open("saved_data/EventIDs-a.csv", mode="r") as file:
     r = csv.reader(file)
     EventIDs_a = {rows[0]:rows[1] for rows in r}
-print("EventIDs_a:\n", EventIDs_a)
 
 # Load event IDs from csv file for -c
 with open("saved_data/EventIDs-c.csv", mode="r") as file:
     r = csv.reader(file)
     EventIDs_c = {rows[0]:rows[1] for rows in r}
-print("EventIDs_c:\n", EventIDs_c)
 
 # Get X-Height and X_Width for -a and -c, to be used for "exploded" test array
 with open("saved_data/x_height-x_width-a.csv", mode="r") as file:
