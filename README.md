@@ -6,4 +6,4 @@ Run `learning/process.py` to convert the raw input data found in `mining/output_
 
 Run `learning/model-a.py` to train the convolutional neural network on the alarm data, and  `learning/model-c.py` to train another CNN on the operator command data. The weights for each of these two CNNs is saved in `learning/saved_models/`.
 
-Run `learning/predict.py` to use the saved trained CNN models on the data to label events (alarms and commands) that arise over time. The labels indicated the root cause of the events.
+Run `learning/predict.py` to use the saved trained CNN models on the data to label events (alarms and commands) that arise over time. The labels indicated the root cause of the events. A Matplotlib animation shows the events occurring over time, and the labels and probabilities predicted by the trained CNN.
