@@ -1,0 +1,439 @@
+EventID,Timestamp,CaseID,LabelID
+Command - Open Delivery MOV-PC4,33,1,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,36,1,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,44,1,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,172,2,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,176,2,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,185,2,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,188,2,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,190,2,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,194,2,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,202,2,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,208,2,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,335,3,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,339,3,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,348,3,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,351,3,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,353,3,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,356,3,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,363,3,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,368,3,Switching a delivery from a refinery to a crude tank
+Command - Set Station Suction Setpoint,487,4,A leak in the pump station
+Command - Turn off Pump,494,4,A leak in the pump station
+Command - Open delivery valve,623,5,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,627,5,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,636,5,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,638,5,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,639,5,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,643,5,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,650,5,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,655,5,Switching a delivery from a refinery to a crude tank
+Command - Set Station Suction Setpoint,771,6,A leak in the pump station
+Command - Turn off Pump,779,6,A leak in the pump station
+Command - Open Delivery MOV-PC4,882,7,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,886,7,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,895,7,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,1024,8,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,1028,8,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,1036,8,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,1038,8,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,1039,8,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,1043,8,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,1050,8,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,1055,8,Switching a delivery from a refinery to a crude tank
+Command - Set Station Suction Setpoint,1176,9,A leak in the pump station
+Command - Turn off Pump,1184,9,A leak in the pump station
+Command - Open delivery valve,1313,10,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,1317,10,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,1326,10,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,1329,10,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,1330,10,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,1334,10,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,1342,10,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,1347,10,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,1475,11,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,1478,11,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,1486,11,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,1488,11,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,1490,11,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,1494,11,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,1501,11,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,1506,11,Switching a delivery from a refinery to a crude tank
+Command - Set Station Suction Setpoint,1627,12,A leak in the pump station
+Command - Turn off Pump,1635,12,A leak in the pump station
+Command - Open Delivery MOV-PC4,1741,13,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,1744,13,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,1752,13,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,1872,14,A leak in the pump station
+Command - Turn off Pump,1879,14,A leak in the pump station
+Command - Set Station Suction Setpoint,1996,15,A leak in the pump station
+Command - Turn off Pump,2003,15,A leak in the pump station
+Command - Open Delivery MOV-PC4,2109,16,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,2113,16,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,2121,16,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,2249,17,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,2252,17,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,2260,17,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,2263,17,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,2264,17,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,2268,17,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,2276,17,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,2282,17,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,2386,18,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,2389,18,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,2398,18,Starting a product delivery in a multi product pipeline
+Command - Open Delivery MOV-PC4,2502,19,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,2506,19,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,2515,19,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,2633,20,A leak in the pump station
+Command - Turn off Pump,2641,20,A leak in the pump station
+Command - Open delivery valve,2768,21,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,2771,21,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,2780,21,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,2783,21,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,2784,21,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,2787,21,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,2795,21,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,2800,21,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,2902,22,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,2905,22,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,2913,22,Starting a product delivery in a multi product pipeline
+Command - Open Delivery MOV-PC4,3018,23,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,3022,23,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,3031,23,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,3150,24,A leak in the pump station
+Command - Turn off Pump,3158,24,A leak in the pump station
+Command - Open delivery valve,3286,25,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,3290,25,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,3298,25,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,3300,25,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,3302,25,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,3306,25,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,3314,25,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,3320,25,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,3449,26,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,3452,26,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,3461,26,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,3463,26,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,3465,26,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,3468,26,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,3475,26,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,3480,26,Switching a delivery from a refinery to a crude tank
+Command - Set Station Suction Setpoint,3599,27,A leak in the pump station
+Command - Turn off Pump,3607,27,A leak in the pump station
+Command - Set Station Suction Setpoint,3724,28,A leak in the pump station
+Command - Turn off Pump,3731,28,A leak in the pump station
+Command - Open Delivery MOV-PC4,3833,29,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,3837,29,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,3845,29,Starting a product delivery in a multi product pipeline
+Command - Open Delivery MOV-PC4,3947,30,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,3951,30,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,3960,30,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,4088,31,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,4092,31,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,4101,31,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,4103,31,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,4104,31,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,4107,31,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,4115,31,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,4120,31,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,4250,32,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,4254,32,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,4263,32,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,4266,32,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,4267,32,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,4271,32,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,4278,32,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,4284,32,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,4388,33,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,4392,33,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,4400,33,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,4519,34,A leak in the pump station
+Command - Turn off Pump,4526,34,A leak in the pump station
+Command - Open delivery valve,4655,35,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,4658,35,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,4667,35,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,4670,35,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,4671,35,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,4675,35,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,4682,35,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,4688,35,Switching a delivery from a refinery to a crude tank
+Command - Set Station Suction Setpoint,4806,36,A leak in the pump station
+Command - Turn off Pump,4813,36,A leak in the pump station
+Command - Open Delivery MOV-PC4,4916,37,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,4919,37,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,4927,37,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,5055,38,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,5058,38,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,5066,38,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,5069,38,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,5071,38,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,5075,38,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,5082,38,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,5087,38,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,5190,39,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,5194,39,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,5202,39,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,5322,40,A leak in the pump station
+Command - Turn off Pump,5330,40,A leak in the pump station
+Command - Set Station Suction Setpoint,5448,41,A leak in the pump station
+Command - Turn off Pump,5456,41,A leak in the pump station
+Command - Set Station Suction Setpoint,5577,42,A leak in the pump station
+Command - Turn off Pump,5585,42,A leak in the pump station
+Command - Open Delivery MOV-PC4,5689,43,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,5693,43,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,5701,43,Starting a product delivery in a multi product pipeline
+Command - Open Delivery MOV-PC4,5805,44,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,5809,44,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,5818,44,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,5938,45,A leak in the pump station
+Command - Turn off Pump,5945,45,A leak in the pump station
+Command - Open delivery valve,6074,46,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,6078,46,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,6087,46,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,6090,46,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,6091,46,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,6095,46,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,6102,46,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,6108,46,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,6237,47,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,6240,47,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,6249,47,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,6251,47,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,6252,47,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,6256,47,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,6263,47,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,6268,47,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,6395,48,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,6399,48,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,6408,48,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,6411,48,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,6413,48,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,6417,48,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,6425,48,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,6431,48,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,6535,49,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,6539,49,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,6548,49,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,6668,50,A leak in the pump station
+Command - Turn off Pump,6675,50,A leak in the pump station
+Command - Open Delivery MOV-PC4,6779,51,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,6782,51,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,6790,51,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,6907,52,A leak in the pump station
+Command - Turn off Pump,6914,52,A leak in the pump station
+Command - Open Delivery MOV-PC4,7018,53,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,7021,53,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,7030,53,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,7148,54,A leak in the pump station
+Command - Turn off Pump,7156,54,A leak in the pump station
+Command - Open Delivery MOV-PC4,7260,55,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,7264,55,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,7273,55,Starting a product delivery in a multi product pipeline
+Command - Open Delivery MOV-PC4,7378,56,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,7381,56,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,7390,56,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,7510,57,A leak in the pump station
+Command - Turn off Pump,7517,57,A leak in the pump station
+Command - Open delivery valve,7644,58,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,7647,58,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,7655,58,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,7657,58,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,7659,58,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,7662,58,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,7669,58,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,7675,58,Switching a delivery from a refinery to a crude tank
+Command - Set Station Suction Setpoint,7793,59,A leak in the pump station
+Command - Turn off Pump,7801,59,A leak in the pump station
+Command - Set Station Suction Setpoint,7919,60,A leak in the pump station
+Command - Turn off Pump,7927,60,A leak in the pump station
+Command - Set Station Suction Setpoint,8046,61,A leak in the pump station
+Command - Turn off Pump,8053,61,A leak in the pump station
+Command - Open Delivery MOV-PC4,8156,62,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,8160,62,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,8168,62,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,8296,63,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,8300,63,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,8309,63,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,8311,63,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,8312,63,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,8315,63,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,8322,63,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,8327,63,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,8455,64,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,8458,64,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,8466,64,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,8468,64,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,8469,64,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,8472,64,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,8480,64,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,8485,64,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,8614,65,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,8617,65,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,8626,65,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,8629,65,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,8630,65,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,8634,65,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,8641,65,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,8647,65,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,8752,66,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,8756,66,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,8765,66,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,8895,67,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,8899,67,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,8907,67,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,8909,67,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,8910,67,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,8913,67,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,8921,67,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,8926,67,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,9031,68,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,9035,68,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,9044,68,Starting a product delivery in a multi product pipeline
+Command - Open Delivery MOV-PC4,9149,69,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,9152,69,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,9161,69,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,9287,70,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,9290,70,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,9298,70,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,9300,70,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,9302,70,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,9306,70,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,9313,70,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,9319,70,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,9424,71,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,9427,71,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,9436,71,Starting a product delivery in a multi product pipeline
+Command - Open Delivery MOV-PC4,9540,72,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,9543,72,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,9551,72,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,9668,73,A leak in the pump station
+Command - Turn off Pump,9675,73,A leak in the pump station
+Command - Open delivery valve,9802,74,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,9806,74,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,9815,74,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,9817,74,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,9818,74,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,9821,74,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,9828,74,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,9833,74,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,9936,75,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,9939,75,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,9948,75,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,10075,76,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,10078,76,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,10087,76,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,10089,76,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,10090,76,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,10094,76,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,10102,76,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,10108,76,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,10235,77,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,10238,77,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,10246,77,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,10248,77,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,10249,77,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,10252,77,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,10260,77,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,10265,77,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,10391,78,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,10394,78,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,10402,78,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,10404,78,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,10405,78,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,10408,78,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,10415,78,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,10421,78,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,10549,79,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,10553,79,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,10561,79,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,10563,79,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,10565,79,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,10568,79,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,10576,79,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,10582,79,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,10711,80,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,10715,80,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,10724,80,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,10726,80,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,10728,80,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,10731,80,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,10738,80,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,10743,80,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,10847,81,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,10850,81,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,10858,81,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,10977,82,A leak in the pump station
+Command - Turn off Pump,10985,82,A leak in the pump station
+Command - Open delivery valve,11114,83,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,11118,83,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,11126,83,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,11128,83,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,11130,83,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,11133,83,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,11141,83,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,11146,83,Switching a delivery from a refinery to a crude tank
+Command - Open delivery valve,11276,84,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,11279,84,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,11287,84,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,11289,84,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,11290,84,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,11294,84,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,11302,84,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,11308,84,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,11410,85,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,11413,85,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,11421,85,Starting a product delivery in a multi product pipeline
+Command - Open Delivery MOV-PC4,11525,86,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,11528,86,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,11536,86,Starting a product delivery in a multi product pipeline
+Command - Open Delivery MOV-PC4,11641,87,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,11644,87,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,11652,87,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,11781,88,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,11785,88,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,11794,88,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,11796,88,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,11798,88,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,11802,88,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,11809,88,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,11814,88,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,11917,89,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,11921,89,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,11930,89,Starting a product delivery in a multi product pipeline
+Command - Open Delivery MOV-PC4,12033,90,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,12037,90,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,12045,90,Starting a product delivery in a multi product pipeline
+Command - Open delivery valve,12171,91,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,12174,91,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,12183,91,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,12185,91,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,12187,91,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,12190,91,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,12198,91,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,12204,91,Switching a delivery from a refinery to a crude tank
+Command - Set Station Suction Setpoint,12325,92,A leak in the pump station
+Command - Turn off Pump,12332,92,A leak in the pump station
+Command - Open Delivery MOV-PC4,12434,93,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,12438,93,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,12447,93,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,12568,94,A leak in the pump station
+Command - Turn off Pump,12576,94,A leak in the pump station
+Command - Open delivery valve,12705,95,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC4,12709,95,Switching a delivery from a refinery to a crude tank
+Command - Close Delivery MOV-PC1,12717,95,Switching a delivery from a refinery to a crude tank
+Command - Batch Meter Ticket Switch,12719,95,Switching a delivery from a refinery to a crude tank
+Command - Colorimeter Deactivated,12720,95,Switching a delivery from a refinery to a crude tank
+Command - Change Delivery Pressure Set Point,12723,95,Switching a delivery from a refinery to a crude tank
+Command - Disable Tank Deviation,12730,95,Switching a delivery from a refinery to a crude tank
+Command - Enable Batch Meter Tracking Warning,12735,95,Switching a delivery from a refinery to a crude tank
+Command - Open Delivery MOV-PC4,12839,96,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,12843,96,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,12851,96,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,12972,97,A leak in the pump station
+Command - Turn off Pump,12979,97,A leak in the pump station
+Command - Open Delivery MOV-PC4,13082,98,Starting a product delivery in a multi product pipeline
+Command - Set Control Valve Position,13086,98,Starting a product delivery in a multi product pipeline
+Command - Close Delivery MOV-PC1,13094,98,Starting a product delivery in a multi product pipeline
+Command - Set Station Suction Setpoint,13213,99,A leak in the pump station
+Command - Turn off Pump,13220,99,A leak in the pump station

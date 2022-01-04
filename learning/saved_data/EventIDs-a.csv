@@ -1,0 +1,13 @@
+Alarm - Batch Meter Tracking Volume Reached,0
+Alarm - Batch Meter Tracking Warning Time 1 Reached,1
+Alarm - Batch Meter Tracking Warning Time 2 Reached,2
+Alarm - Colorimeter High,3
+Alarm - Density Deviation High,4
+Alarm - High Discharge Pressure,5
+Alarm - High Pump Differential,6
+Alarm - High Pump Vibration,7
+Alarm - Incoming Suction Pressure High,8
+Alarm - Leak Detection Alarm,9
+Alarm - Low Suction Pressure,10
+Alarm - Meter Flow Low,11
+Alarm - Pipe MOP Exceeded,12

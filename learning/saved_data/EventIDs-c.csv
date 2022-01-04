@@ -1,0 +1,12 @@
+Command - Batch Meter Ticket Switch,0
+Command - Change Delivery Pressure Set Point,1
+Command - Close Delivery MOV-PC1,2
+Command - Close Delivery MOV-PC4,3
+Command - Colorimeter Deactivated,4
+Command - Disable Tank Deviation,5
+Command - Enable Batch Meter Tracking Warning,6
+Command - Open Delivery MOV-PC4,7
+Command - Open delivery valve,8
+Command - Set Control Valve Position,9
+Command - Set Station Suction Setpoint,10
+Command - Turn off Pump,11
